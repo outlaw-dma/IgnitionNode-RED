@@ -47,8 +47,8 @@
                     <moduleId>org.imdc.nodered.IgnitionNodeRED</moduleId>
                     <moduleName>${project.parent.name}</moduleName>
                     <moduleDescription>${project.description}</moduleDescription>
-                    <moduleVersion>1.0.2.2000</moduleVersion>
-                    <requiredIgnitionVersion>8.0.0</requiredIgnitionVersion>
+                    <moduleVersion>1.0.3.3000</moduleVersion>
+                    <requiredIgnitionVersion>8.0.14</requiredIgnitionVersion>
 
                     <hooks>
                         <hook>
